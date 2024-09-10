@@ -14,9 +14,13 @@ Please be aware that the creator is not a native speaker of Chinese, so there ma
 
 ## File List
 * [zhdict_2xbin.txt](/zhdict_2xbin.txt)
+
   A dict file for training Diffsinger.
 * [dsdict-zh.yaml](/dsdict-zh.yaml)
+
   A dictionary file used after training Diffsinger, to be added to the dsdur folder.
+
   Please set the phonemizer in OpenUtau to "DIFFS ZH."
 * [phonemes.md](/phonemes.md)
+
   An md file detailing the phoneme system.
