@@ -62,7 +62,7 @@ The contents of the README were translated using GPT-4.
 | sh | sh | |
 | r | r | |
 | j | j | |
-| q | tsh | The phoneme `q` is generally used for the glottal stop, so it is changed |
+| q | tsh | In general, the phoneme `q` is used as a glottal plosive, so it is changed to prevent phoneme collisions. |
 | x | x | |
 | g | g | |
 | k | k | |
