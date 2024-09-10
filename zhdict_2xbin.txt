@@ -1,0 +1,77 @@
+# 2xxbin Chinese Dictionary (for Diffsinger)
+# The comments were translated from Korean to English using GPT-4.
+# ---
+# Global phonemes
+SP SP
+pau SP
+AP AP
+vf vf
+exh exh
+# ---
+# Vowels
+# Single vowels
+a a
+o o
+e e
+i i
+i' i' # Sound of "i" combined with initials [z, c, s, zh, ch, sh, r]
+u u
+v v
+er er # vowel with retroflexion
+# ---
+# Compound vowels
+:i :i # Sound of "i" in "ai", "ei"
+:o :o # Sound of "o" in "ao"
+:u :u # Sound of "u" in "ou"
+# ---
+# Nasal vowels
+:N :N
+:NG :NG
+# ---
+# Combined vowels
+ia ia
+ie ie
+io io # The sound of the 'yo' part in 'you'
+io' io' # The sound of the 'yo' part in 'yong'
+ua ua
+uo uo
+ve ve
+in i :N
+vn v :N
+iao ia :o # When more than three vowels are combined, the last rhyme is separated into the phoneme of the compound rhyme.
+iou io :u
+uai ua :i
+uei ue :i
+ian ia :N
+uan ua :N
+uen ue :N
+van va :N
+ing i :NG
+iang ia :NG
+iong io :NG
+uang ua :NG
+ueng ue :NG
+# ---
+# Consonants
+b b
+p p
+m m
+f f
+d d
+t t
+n n
+l l
+z z
+c c
+s s
+zh zh
+ch ch
+sh sh
+r r
+j j
+q tsh #The phoneme 'q' is typically used for the glottal stop, so for compatibility, 'tsh' is used instead of the 'q' phoneme notation.
+tsh tsh
+x x
+g g
+k k
+h h
