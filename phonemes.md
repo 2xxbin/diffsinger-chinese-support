@@ -17,8 +17,8 @@ The contents of the README were translated using GPT-4.
 | a | a | |
 | o | o | |
 | e | e | |
-| i | i | |
-| zh**i** | i' | The sound of `i` following initials `z, c, s, zh, ch, sh, r` |
+| i | i | The sound of `i` when it follows an initial consonant, excluding `z, c, s, zh, ch, r` |
+| zh**i** | i' | The sound of `i` following initials `z, c, s, zh, ch, r` |
 | u | u | |
 | v | v | |
 | er | er | |
@@ -33,6 +33,7 @@ The contents of the README were translated using GPT-4.
 | :-: | :---: | :----- |
 | a**n** | :N | Sound of `n` in `an, en` |
 | a**ng** | :NG | Sound of `ng` in `ang, eng` |
+| ian | ie :N | |
 ### Combined Vowels
 | Pinyin | Phoneme | Description |
 | :-: | :---: | :----- |
@@ -43,6 +44,10 @@ The contents of the README were translated using GPT-4.
 | ua | ua | |
 | uo | uo | |
 | ve | ve | |
+| iao | ia :o | |
+| iou | io :u | |
+| uai | ua :i | |
+| uei | ue :i | |
 ## Consonants
 | Pinyin | Phoneme | Description |
 | :-: | :---: | :----- |

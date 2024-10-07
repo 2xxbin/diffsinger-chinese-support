@@ -1,5 +1,5 @@
 # Diffsinger Chinese Support
----
+
 [README.md](/README.md)
 디프싱어에서 중국어를 보다 편하게 사용할 수 있도록 새로운 음소 방식을 제안하는 저장소입니다.
 

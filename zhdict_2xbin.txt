@@ -42,7 +42,7 @@ iao ia :o # When more than three vowels are combined, the last rhyme is separate
 iou io :u
 uai ua :i
 uei ue :i
-ian ia :N
+ian ie :N
 uan ua :N
 uen ue :N
 van va :N
