@@ -17,37 +17,45 @@ The contents of the README were translated using GPT-4.
 | a | a | |
 | o | o | |
 | e | e | |
+| w**e**i | ee | Similar to the Japanese `え` sound |
 | i | i | The sound of `i` when it follows an initial consonant, excluding `z, c, s, zh, ch, r` |
-| zh**i** | i' | The sound of `i` following initials `z, c, s, zh, ch, r` |
+| zh**i** | ir | The sound of `i` following initials `z, c, s, zh, ch, r` |
 | u | u | |
 | v | v | |
 | er | er | |
+| Y | Y | Semi-vowel `i` |
+| W | W | Semi-vowel `u` |
+| V | V | Semi-vowel `v` |
+
 ### Compound Vowels
 | Pinyin | Phoneme | Description |
 | :-: | :---: | :----- |
 | a**i** | :i | Sound of `i` in `ai` |
 | a**o** | \:o | Sound of `o` in `ao` |
 | o**u** | :u | Sound of `u` in `ou` |
+
 ### Nasal Vowels
 | Pinyin | Phoneme | Description |
 | :-: | :---: | :----- |
 | a**n** | :N | Sound of `n` in `an, en` |
 | a**ng** | :NG | Sound of `ng` in `ang, eng` |
-| ian | ie :N | |
+| ian | Y e :N | |
+
 ### Combined Vowels
 | Pinyin | Phoneme | Description |
 | :-: | :---: | :----- |
-| ia | ia | |
-| ie | ie | |
-| **io**u | io | Sound of `io` in `iou` |
-| **io**ng | io' | Sound of `io` in `iong` |
-| ua | ua | |
-| uo | uo | |
-| ve | ve | |
-| iao | ia :o | |
-| iou | io :u | |
-| uai | ua :i | |
-| uei | ue :i | |
+| ia | Y a | |
+| ie | Y e' | |
+| **io**u | Y o' | Sound of `io` in `iou` |
+| **io**ng | Y o | Sound of `io` in `iong` |
+| ua | W a | |
+| uo | W o' | |
+| ve | V e | |
+| iao | Y a :o | |
+| iou | Y o' :u | |
+| uai | W a :i | |
+| uei | W ee :i | |
+
 ## Consonants
 | Pinyin | Phoneme | Description |
 | :-: | :---: | :----- |

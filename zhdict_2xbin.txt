@@ -18,6 +18,9 @@ i' i' # Sound of "i" combined with initials [z, c, s, zh, ch, sh, r]
 u u
 v v
 er er # vowel with retroflexion
+Y Y # semi-vowel i
+W W # semi-vowel u
+V V # semi-vowel v
 # ---
 # Compound vowels
 :i :i # Sound of "i" in "ai", "ei"
@@ -29,28 +32,28 @@ er er # vowel with retroflexion
 :NG :NG
 # ---
 # Combined vowels
-ia ia
-ie ie
-io io # The sound of the 'yo' part in 'you'
-io' io' # The sound of the 'yo' part in 'yong'
-ua ua
-uo uo
-ve ve
+ia Y a
+ie U e
+io' Y o' # The sound of the 'yo' part in 'you'
+io Y o # The sound of the 'yo' part in 'yong'
+ua W a
+uo W o'
+ve V e
 in i :N
 vn v :N
-iao ia :o # When more than three vowels are combined, the last rhyme is separated into the phoneme of the compound rhyme.
-iou io :u
-uai ua :i
-uei ue :i
-ian ie :N
-uan ua :N
-uen ue :N
-van va :N
+iao Y a :o # When more than three vowels are combined, the last rhyme is separated into the phoneme of the compound rhyme.
+iou Y o' :u
+uai W a :i
+uei W e :i
+ian Y e :N
+uan Y a :N
+uen W e :N
+van V a :N
 ing i :NG
-iang ia :NG
-iong io :NG
-uang ua :NG
-ueng ue :NG
+iang Y a :NG
+iong Y o :NG
+uang W a :NG
+ueng W e :NG
 # ---
 # Consonants
 b b
